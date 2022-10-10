@@ -1,1 +1,1 @@
-a script that prints "Hello, World", followed y a new line to the standard output
+a program that displays a confused smiley
